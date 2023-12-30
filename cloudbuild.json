@@ -1,0 +1,14 @@
+{
+    "steps": [
+     {
+        "name": "gcr.io/meliora-app-409623/firebase",
+        "args": [
+           "deploy",
+           "--project",
+           "meliora-app-409623",
+           "--only",
+           "hosting"
+         ]
+    }
+    ]
+  }
