@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "meliora-app-409623"
-  }
+  },
+  "targets": {
+    "meliora-app-409623": {
+      "hosting": {
+        "meliora-app-409623": [
+          "meliora-app-409623"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
